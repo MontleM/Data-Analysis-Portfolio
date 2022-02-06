@@ -11,3 +11,16 @@ LOS : Length of stay, in days<br>
 RACE : Race of the patient (specified numerically)<br>
 TOTCHG : Hospital discharge costs<br>
 APRDRG : All Patient Refined Diagnosis Related Groups<br>
+
+<h2>Project 2: Data Analysis with Cities</h2>
+
+Imagine you are already working as a DiDi operations intern and you have been asked to
+perform some data analysis on 3 cities; Riyadh, Munich and Panama City. The goal is to help
+your team to better understand the current situation in each city so that we can better plan and
+execute strategies that will yield better operational results. Specifically, your team want to know:<br>
+
+1. What is the Driver ID of the driver who has completed the most trips?<br>
+2. Which city has the highest average trips per Driver?<br>
+3. Which month had the 3rd lowest number of signups in Munich?<br>
+
+
