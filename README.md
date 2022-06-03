@@ -38,6 +38,8 @@ We are required to analyse the data and answer the following<br>
 4. Which 5 Doctorsin those 3 Territories(in Q3 above) have the Highest Profit in 2021?<br>
 5. In the last 6 months, which 3 Products have been trending downwards the most in terms on # Prescriptions?<br>
 
+<h2>PowerBI Report</h2>
+Published to PowerBI Service : https://app.powerbi.com/groups/me/dashboards/51227da4-b917-4e9e-b58c-52b524b2571f
  
 
 
