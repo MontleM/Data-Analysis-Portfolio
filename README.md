@@ -1,4 +1,4 @@
-# Data Analysis Projects
+# Data Analytics Projects
 
 <h2>Project 1: Data Analysis with HealthCare</h2>
 
