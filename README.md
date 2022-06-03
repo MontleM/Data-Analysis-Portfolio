@@ -29,4 +29,17 @@ execute strategies that will yield better operational results. Specifically, you
 
 The data gives the details of third party motor insurance claims in Sweden for the year 1977. In Sweden, all motor insurance companies apply identical risk arguments to classify customers, and thus their portfolios and their claims statistics can be combined. The data were compiled by a Swedish Committee on the Analysis of Risk Premium in Motor Insurance. The Committee was asked to look into the problem of analyzing the real influence on the claims of the risk arguments and to compare this structure with the actual tariff.
 
+<h2>Project 5: Excel Pivot Table Case Study
+
+PharmaWorld is a pharmaceutical company in  the USA. They sell prescription drugs in the hypertension, Depression and Asthma markets.<br>
+We are required to analyse the data and answer the following<br>
+  
+1. What is the Revenue for all Products, Territories, Doctors in Quarter 1 in 2021?<br>
+2. What are the top 5 Products for 2020 and 2021 Combined in terms of Revenue?<br>
+3. Which 3 Territories have grown their Revenue the most Year on Year?<br>
+4. Which 5 Doctorsin those 3 Territories(in Q3 above) have the Highest Profit in 2021?<br>
+5. In the last 6 months, which 3 Products have been trending downwards the most in terms on # Prescriptions?<br>
+
+ 
+
 
