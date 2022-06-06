@@ -41,8 +41,7 @@ We are required to analyse the data and answer the following<br>
 <h2>PowerBI Report</h2>
 Published to PowerBI Service : https://app.powerbi.com/groups/me/dashboards/51227da4-b917-4e9e-b58c-52b524b2571f
 
-<h2>Iris Flower Classification deployed with Streamlit</h2>
-link: http://127.0.0.1:8501
+
  
 
 
