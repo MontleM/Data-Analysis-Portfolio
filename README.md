@@ -1,6 +1,6 @@
 # Data Analytics Projects
 
-<h2>Project 1: Data Analysis with HealthCare</h2>
+<h2>Data Analysis with HealthCare</h2>
 
 A nationwide survey of hospital costs conducted by the US Agency for Healthcare consists of hospital records of inpatient samples. The given data is restricted to the city of Wisconsin and relates to patients in the age group 0-17 years. The agency wants to analyze the data to research on the healthcare costs and their utilization.
 
@@ -12,7 +12,7 @@ RACE : Race of the patient (specified numerically)<br>
 TOTCHG : Hospital discharge costs<br>
 APRDRG : All Patient Refined Diagnosis Related Groups<br>
 
-<h2>Project 2: Data Analysis with Cities</h2>
+<h2>Data Analysis with Cities</h2>
 
 Imagine you are already working as a DiDi operations intern and you have been asked to
 perform some data analysis on 3 cities; Riyadh, Munich and Panama City. The goal is to help
@@ -23,11 +23,11 @@ execute strategies that will yield better operational results. Specifically, you
 2. Which city has the highest average trips per Driver?<br>
 3. Which month had the 3rd lowest number of signups in Munich?<br>
 
-<h2>Project 3: Data Analysis with Insurance</h2>
+<h2>Data Analysis with Insurance</h2>
 
 The data gives the details of third party motor insurance claims in Sweden for the year 1977. In Sweden, all motor insurance companies apply identical risk arguments to classify customers, and thus their portfolios and their claims statistics can be combined. The data were compiled by a Swedish Committee on the Analysis of Risk Premium in Motor Insurance. The Committee was asked to look into the problem of analyzing the real influence on the claims of the risk arguments and to compare this structure with the actual tariff.<br>
 
-<h2>Project 4: Excel Pivot Table Case Study</h2>
+<h2>Excel Pivot Table Case Study</h2>
 
 PharmaWorld is a pharmaceutical company in  the USA. They sell prescription drugs in the hypertension, Depression and Asthma markets.<br>
 We are required to analyse the data and answer the following<br>
@@ -40,6 +40,9 @@ We are required to analyse the data and answer the following<br>
 
 <h2>PowerBI Report</h2>
 Published to PowerBI Service : https://app.powerbi.com/groups/me/dashboards/51227da4-b917-4e9e-b58c-52b524b2571f
+
+<h2>Iris Flower Classification deployed with Streamlit</h2>
+link: http://127.0.0.1:8501
  
 
 
